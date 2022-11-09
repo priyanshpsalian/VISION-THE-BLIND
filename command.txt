@@ -1,0 +1,8 @@
+alexa hello
+alexa identify face
+alexa save as Priyansh
+alexa who-checks the name of person
+alexa surrounding-checks th surrounding and tells object names
+alexa read text
+alexa read bill
+alexa currency
